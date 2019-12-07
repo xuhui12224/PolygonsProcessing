@@ -62,8 +62,8 @@ def dicom_file_list(dirname):
 
     return fileMap
 
-input_path = "F:/上海六院项目/张仁君 术前/PA1/ST0/SE0"
-output_path = "E:/Wheel/PerfusionImaging/Data/PreOperation/"
+input_path = ""
+output_path = ""
 
 sub_paths = subdir_list(input_path)
 
